@@ -1,4 +1,4 @@
-package go_pack_test
+package go_pack
 
 func AddCustom(x, y int) int {
 	return x + y
