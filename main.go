@@ -7,6 +7,7 @@ func SubCustom(x, y int) int {
 }
 
 func main()  {
+	fmt.Println("go_pack_test pack..A")
     fmt.Println("other...print")    
 	fmt.Println("go_pack_test pack")
 }
